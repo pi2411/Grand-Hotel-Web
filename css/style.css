@@ -72,7 +72,10 @@ transition: width .3s;
 }
 /* end sidebar */
 /* end navbar */
-
+.navigation{
+    position: fixed;
+    margin-left: 8rem;
+}
 
 
 
